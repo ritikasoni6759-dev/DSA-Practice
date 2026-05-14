@@ -1,4 +1,4 @@
-//Leetcode-54
+//Leetcode:54
 
 class Solution {
 public:
